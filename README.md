@@ -2,3 +2,6 @@
 Maketing AI
 Logo
 Marca
+Bienes 
+Servicios
+Distribuidoras
